@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a.vinodrao.barsinge\\source\\repos\\AsmitaLearningProject\\AsmitaLearningProject\\AsmitaLearningProject.csproj": {}
+    "C:\\Users\\a.vinodrao.barsinge\\Documents\\GitHub\\FirstLeraningProject\\AsmitaLearningProject\\AsmitaLearningProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a.vinodrao.barsinge\\source\\repos\\AsmitaLearningProject\\AsmitaLearningProject\\AsmitaLearningProject.csproj": {
+    "C:\\Users\\a.vinodrao.barsinge\\Documents\\GitHub\\FirstLeraningProject\\AsmitaLearningProject\\AsmitaLearningProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a.vinodrao.barsinge\\source\\repos\\AsmitaLearningProject\\AsmitaLearningProject\\AsmitaLearningProject.csproj",
+        "projectUniqueName": "C:\\Users\\a.vinodrao.barsinge\\Documents\\GitHub\\FirstLeraningProject\\AsmitaLearningProject\\AsmitaLearningProject.csproj",
         "projectName": "AsmitaLearningProject",
-        "projectPath": "C:\\Users\\a.vinodrao.barsinge\\source\\repos\\AsmitaLearningProject\\AsmitaLearningProject\\AsmitaLearningProject.csproj",
+        "projectPath": "C:\\Users\\a.vinodrao.barsinge\\Documents\\GitHub\\FirstLeraningProject\\AsmitaLearningProject\\AsmitaLearningProject.csproj",
         "packagesPath": "C:\\Users\\a.vinodrao.barsinge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a.vinodrao.barsinge\\source\\repos\\AsmitaLearningProject\\AsmitaLearningProject\\obj\\",
+        "outputPath": "C:\\Users\\a.vinodrao.barsinge\\Documents\\GitHub\\FirstLeraningProject\\AsmitaLearningProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -5,14 +5,26 @@ using System.Text;
 
 namespace AsmitaLearningProject
 {
-    class CommonMethods : WebDriverClass
+    public class CommonMethods : WebDriverClass
     {
+
+        public void TextBox(IWebElement webElement,String TextToEnter)
+        {
+            webElement.SendKeys(TextToEnter);
+        }
+
+        public void ButtonClick(IWebElement webElement)
+        {
+            webElement.Click();
+        }
         public void ComboBox(string TextToInput,String ControlToPass)
         { 
          IWebElement ComboBox= Driver.FindElement(By.XPath($"//input[@id='{ControlToPass}']"));
             ComboBox.Clear();
             ComboBox.SendKeys($"{TextToInput}");
         }
+
+
 
     }
 }
